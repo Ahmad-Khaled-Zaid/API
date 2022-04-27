@@ -1,0 +1,26 @@
+[
+  {
+    "name": "banana",
+    "type": "fruits"
+  },
+  {
+    "name": "apple",
+    "type": "fruits"
+  },
+  {
+    "name": "Kiwi",
+    "type": true
+  },
+  {
+    "name": "tomato",
+    "type": "vegetables"
+  },
+  {
+    "name": "potato",
+    "type": "vegetables"
+  },
+  {
+    "name": "garlic",
+    "type": 1
+  }
+]
